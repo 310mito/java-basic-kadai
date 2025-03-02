@@ -1,4 +1,4 @@
-package kadai_015;
+package kadai.kadai_015;
 
 public class CarExec_Chapter15 {
 

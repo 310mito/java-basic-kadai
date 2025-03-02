@@ -1,4 +1,4 @@
-package kadai_015;
+package kadai.kadai_015;
 
 public class Car_Chapter15 {
 	private int gear = 1;
